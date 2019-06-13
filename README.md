@@ -5,8 +5,8 @@ This repository contains the code of the **end-use based water customer segmenta
 **Requirements:** 
 Matlab - The code in this repository has been developed and tested on Matlab R2018b
 The following additional Matlab packages: 
-- [Vivid] (https://www.mathworks.com/matlabcentral/fileexchange/20848-vivid-colormap). Copyright (C) 2008, Joseph Kirk
-- [Matlab Toolbox for Dimensionality Reduction](https://lvdmaaten.github.io/drtoolbox/) Copyright (C) 2013, Laurens van der Maaten
+- [Vivid](https://www.mathworks.com/matlabcentral/fileexchange/20848-vivid-colormap). Copyright (C) 2008, Joseph Kirk
+- [Matlab Toolbox for Dimensionality Reduction](https://lvdmaaten.github.io/drtoolbox/). Copyright (C) 2013, Laurens van der Maaten
 
 **Citation:** Cominola, A., Nguyen, K., Giuliani, M., Stewart, R. A., Maier, H. R., & Castelletti, A. (under review). Data mining to uncover heterogeneous water use behaviors from smart meter data. Water Resources Research, under review
 
