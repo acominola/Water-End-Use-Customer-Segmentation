@@ -9,14 +9,14 @@ The following additional Matlab packages:
 - [Vivid](https://www.mathworks.com/matlabcentral/fileexchange/20848-vivid-colormap). Copyright (C) 2008, Joseph Kirk
 - [Matlab Toolbox for Dimensionality Reduction](https://lvdmaaten.github.io/drtoolbox/). Copyright (C) 2013, Laurens van der Maaten
 
-**Citation:** Cominola, A., Nguyen, K., Giuliani, M., Stewart, R. A., Maier, H. R., & Castelletti, A. (under review). Data mining to uncover heterogeneous water use behaviors from smart meter data. Water Resources Research, under review
+**Citation:** Cominola, A., Nguyen, K., Giuliani, M., Stewart, R. A., Maier, H. R., & Castelletti, A. ( 2019). Data mining to uncover heterogeneous water use behaviors from smart meter data. Water Resources Research, 55, 9315– 9333. https://doi.org/10.1029/2019WR024897
 
 ### Authors
 Code: [Andrea Cominola](https://www.swn.tu-berlin.de/) - Smart Water Networks | TU Berlin - Einstein Center Digital Future
 Paper: Cominola, A., Nguyen, K., Giuliani, M., Stewart, R. A., Maier, H. R., & Castelletti, A. 
 
 ### References
-- Cominola, A., Nguyen, K., Giuliani, M., Stewart, R. A., Maier, H. R., & Castelletti, A. (under review). Data mining to uncover heterogeneous water use behaviors from smart meter data. Water Resources Research, under review
+- Cominola, A., Nguyen, K., Giuliani, M., Stewart, R. A., Maier, H. R., & Castelletti, A. ( 2019). Data mining to uncover heterogeneous water use behaviors from smart meter data. Water Resources Research, 55, 9315– 9333. https://doi.org/10.1029/2019WR024897
 - Cominola, A., Spang, E. S., Giuliani, M., Castelletti, A., Lund, J. R., & Loge, F. J. (2018). Segmentation analysis of residential water-electricity demand for customized demand-side management programs. Journal of cleaner production, 172, 1607-1619.
 
 ### License
